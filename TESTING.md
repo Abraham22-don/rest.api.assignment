@@ -40,6 +40,3 @@ Result: The API returned "Resource not found" for a resource that does not exist
 
 Middleware:
 The API uses express.json() to read JSON request bodies. Custom middleware logs the timestamp, request method, and requested route to the terminal.
-
-Conclusion:
-All five API endpoints were tested successfully. The API correctly handled requests and returned the expected results.
